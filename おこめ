@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>おこめ</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">Progate</div>
+      <div class="header-list">
+        <ul>
+          <li>ライスレジンとは</li>
+          <li>ライスレジン製品</li>
+          <li>お問い合わせ</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="main">
+      <div class="copy-container">
+        <h1>ライスレジン<span>.</span></h1>
+        <h2>お米を原料としたバイオマスプラスチック</h2>
+      </div>
+      
+      <div class="contents">
+        <h3>ライスレジンを知ろう</h3>
+        <div class="contents-item">
+          <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/html.svg">
+          <p>ライスレジンとは</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/php.svg">
+          <p>ライスレジンの特徴</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/ruby.svg">
+          <p>ライスレジンによる効果</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/swift.svg">
+          <p>ライスレジン製品</p>
+        </div>
+      </div>
+      
+      <div class="contact-form">
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="footer-logo">おこめ</div>
+      <div class="footer-list">
+        <ul>
+          <li>概要</li
+          <li>お問い合わせ</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
