@@ -26,15 +26,14 @@
       <div class="contents">
         <h3>ライスレジンを知ろう</h3>
         <div class="contents-item">
-          <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/html.svg">
           <p>ライスレジンとは</p>
+          <p>ライスレジンは、お米（非食用）由来の国産バイオマスプラスチックです。
+          
         </div>
         <div class="contents-item">
-          <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/php.svg">
           <p>ライスレジンの特徴</p>
         </div>
         <div class="contents-item">
-          <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/ruby.svg">
           <p>ライスレジンによる効果</p>
         </div>
         <div class="contents-item">
