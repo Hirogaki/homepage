@@ -32,14 +32,22 @@ li {
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 80px;
 }
 
 .copy-container span {
   color: #ff4a4a;
 }
 
+.contents h3{
+  font-size: 60px;
 
+.contents h4{
+  font-size: 60px;
+  
+.contents h5{
+  font-size: 60px;
+ 
 
 .footer {
   background-color: #2f5167;
