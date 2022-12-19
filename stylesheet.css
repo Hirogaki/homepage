@@ -43,6 +43,10 @@ li {
 
 .contents h3{
   font-size: 80px;
+  
+.log1{
+  border:1px solid #333;
+}
 
 .contents h4{
   font-size: 80px;
