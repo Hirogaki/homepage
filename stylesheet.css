@@ -30,7 +30,7 @@ li {
 
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 100px;
 }
 
 .copy-container h2 {
@@ -45,10 +45,12 @@ li {
   
 .log1 {
   border-bottom:1px solid #333;
+  font-size:36px;
 }
   
 .log2 {
   border-bottom:1px solid #333;
+  font-size:36px;
 }
   
 .log3 {
