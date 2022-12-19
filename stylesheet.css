@@ -41,18 +41,16 @@ li {
   color: #ff4a4a;
 }
 
-.contents h3{
+.contents h3 {
   font-size: 80px;
   
-.log1{
+.log1 {
   border-bottom:1px solid #333;
 }
 
-.contents h4{
-  font-size: 80px;
-  
-.contents h5{
-  font-size: 80px;
+.contents-item {
+  width:500px
+  heigt:500px  
  
 
 .footer {
