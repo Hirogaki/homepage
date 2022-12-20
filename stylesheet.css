@@ -53,6 +53,11 @@ li {
   padding-top:40px;
 }
   
+.contents-item img {
+  width:120;
+  height:140;
+}
+
 .log2 {
   border-bottom:1px solid #333;
   font-size:36px;
