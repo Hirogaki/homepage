@@ -37,7 +37,7 @@ li {
   font-size: 60px;
 }
 
-.copy-container h3 {
+.h3 {
   font-size: 60px;
 }
 
@@ -62,9 +62,8 @@ li {
   font-size:36px;
 }
 
-.contents-item img {
-  froat: left;
-  
+.contents-item {
+  froat: left;  
 } 
 
 .footer {
