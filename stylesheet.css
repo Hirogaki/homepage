@@ -63,8 +63,8 @@ li {
 }
 
 .contents-item img {
-  width:100px
-  heigt:100px  
+  froat: left;
+  
 } 
 
 .footer {
